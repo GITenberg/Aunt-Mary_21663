@@ -1,0 +1,26 @@
+_repo: Aunt-Mary_21663
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 21663-h/images/imgcover.jpg
+creator:
+  author:
+    agent_name: Perring, Mrs.
+    gutenberg_agent_id: '24845'
+    url: http://www.gutenberg.org/2009/agents/24845
+description: "Images of the original pages are available through International Children's\
+  \ Digital Library. See \r\nhttp://www.childrenslibrary.org/icdl/BookPreview?bookid=peraunt_00360330&summary=true&categories=false&route=advanced"
+gutenberg_issued: '2007-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21663'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Teachers -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Young women -- Juvenile fiction'
+title: Aunt Mary
+url: http://www.gutenberg.org/ebooks/21663
